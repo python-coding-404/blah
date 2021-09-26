@@ -8,11 +8,14 @@
     "cors": "^2.8.5",
     "ejs": "^3.1.6",
     "emmet": "^2.3.4",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "material-design-icons": "^3.0.1",
+    "socket.io": "^4.2.0",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {},
   "scripts": {
-    "run": "npx nodemon && node index.js"
+    "run": "npx nodemon -e ejs,js,xml && node index.js"
   },
   "keywords": [],
   "author": "",
