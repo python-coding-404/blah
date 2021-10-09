@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "views/home.ejs": [
+      {
+        "id": "7d855812-98da-4cb0-a894-12acbe751798",
+        "line": 9,
+        "version": 842,
+        "index": 197
+      }
+    ]
+  }
 }

